@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from 'react-dom';
 import './index.css';
-const rootUrl = 'https://raw.githubusercontent.com/alejo4373/concentration_web_game-ReactJS-/master/medival_theme/'
+const rootUrl = 'https://raw.githubusercontent.com/alejo4373/concentration_web_game-ReactJS-/master/medieval_theme/'
 const cardNames = [ 'backpack', 'book', 'bottle', 'bow',
                     'helmet', 'map', 'shield', 'sword' ]
 
