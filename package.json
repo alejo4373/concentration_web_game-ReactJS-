@@ -1,0 +1,29 @@
+{
+  "name": "concentratio_web_game",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "version": "0.0.10",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejo4373/concentration_web_game-ReactJS-.git"
+  },
+  "author": "Alejandro Franco alejandrofranco@ac.c4q.nyc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejo4373/concentration_web_game-ReactJS-/issues"
+  },
+  "homepage": "https://github.com/alejo4373/concentration_web_game-ReactJS-#readme"
+}

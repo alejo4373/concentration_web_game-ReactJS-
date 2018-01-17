@@ -1,0 +1,10 @@
+.board {
+    background-image: url("./background_img.png");
+    width: 668px;
+    height: 668px;
+    margin: auto;
+}
+
+.card {
+    margin: 17px 19.5px
+}
